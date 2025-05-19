@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mohom\Documents\CS251\Project 3\Matrices\main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Matrices.vcxproj -> C:\Users\mohom\Documents\CS251\Project 3\Matrices\Debug\Matrices.exe
